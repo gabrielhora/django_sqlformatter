@@ -1,0 +1,1 @@
+from django_sqlformatter.formatter import SqlFormatter
